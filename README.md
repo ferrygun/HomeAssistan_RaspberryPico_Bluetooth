@@ -1,1 +1,1 @@
-# HomeAssistan_RaspberryPico_Bluetooth
+# HomeAssistant RaspberryPico Bluetooth
